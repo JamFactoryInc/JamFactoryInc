@@ -1,4 +1,9 @@
 # Hey, I'm Kieran
-Professional Developer with experience in
-| Java | Kotlin | Node.js | Vue.js | Angular.js | PostGreSQL |
-|------|--------|---------|--------|------------|------------|
+### Skills
+| Java | Kotlin | Node.js | Vue.js | Angular.js | PostGreSQL | Python |
+|-|-|-|-|-|-|-|
+
+### Links
+
+| <a href="https://kieransmith.in">Portfolio</a> | <a href="https://www.linkedin.com/in/jamfactoryinc/">Linkedin</a> |
+|-|-|
