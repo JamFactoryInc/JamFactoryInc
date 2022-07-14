@@ -1,6 +1,6 @@
 # Hey, I'm Kieran
 ### Skills
-| Java | Kotlin | TypeScript | Vue.js | Angular.js | PostGreSQL | Python |
+| Java | Kotlin | TypeScript | Vue.js | Angular.js | PostgreSQL | Python |
 |-|-|-|-|-|-|-|
 
 ### Links
