@@ -1,9 +1,9 @@
 # Hey, I'm Sage
 ### Skills
-| Java | Kotlin | TypeScript | Vue.js | Angular.js | PostgreSQL | Python |
-|-|-|-|-|-|-|-|
+| Rust | Kotlin | TypeScript | PostgreSQL |
+|-|-|-|-|
 
 ### Links
 
-| <a href="https://kieransmith.in">Portfolio</a> | <a href="https://www.linkedin.com/in/jamfactoryinc/">Linkedin</a> |
+| <a href="https://api.sages.dev/">Portfolio</a> | <a href="https://www.linkedin.com/in/jamfactoryinc/">Linkedin</a> |
 |-|-|
