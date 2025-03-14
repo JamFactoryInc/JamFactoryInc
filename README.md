@@ -1,7 +1,7 @@
 # Hey, I'm Sage
 ### Skills
-| Rust | Kotlin | TypeScript | PostgreSQL |
-|-|-|-|-|
+| Rust | C++ | Golang | Kotlin | PostgreSQL |
+|-|-|-|-|-|
 
 ### Links
 
