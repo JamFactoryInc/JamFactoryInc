@@ -5,5 +5,5 @@
 
 ### Links
 
-| <a href="https://api.sages.dev/">Portfolio</a> | <a href="https://www.linkedin.com/in/jamfactoryinc/">Linkedin</a> |
+| ~~<a href="https://api.sages.dev/">Portfolio</a>~~ (WIP) | <a href="https://www.linkedin.com/in/jamfactoryinc/">Linkedin</a> |
 |-|-|
